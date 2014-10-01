@@ -12,7 +12,7 @@ color: yellow
 - Shell
 - Real meat product
 - Simulated corn
-- Artisanal augula
+- Artisanal arugula
 - Salsa
 - Onions
 - Cheez Whiz
